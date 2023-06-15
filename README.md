@@ -18,7 +18,5 @@ steps to download EverSpace! :
 
 # GamePlay images: 
 
-<img width="599" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/101946066/204130623-8b6b8734-d670-4115-895a-59f3ab6a01fd.png">
-<img width="598" alt="MicrosoftTeams-image" src="https://user-images.githubusercontent.com/101946066/204130626-509e1c7d-0b67-4e98-b57d-2247b39bdd6d.png">
-<img width="600" alt="MicrosoftTeams-image (2)" src="https://user-images.githubusercontent.com/101946066/204130629-187e2b6d-b961-47fd-bac4-ae81a3f7ddba.png">
-
+![Screenshot 2023-06-15 212952](https://github.com/spacesaicodes1234/MarsX-EverSpace-Fun-Corner-/assets/101946066/67f6f6a2-96bc-44a9-a029-4584948dbad6)
+![Screenshot 2023-06-15 213007](https://github.com/spacesaicodes1234/MarsX-EverSpace-Fun-Corner-/assets/101946066/d8d98786-0f86-4b12-91e0-edc90ea76a01)
